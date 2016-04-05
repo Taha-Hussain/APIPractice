@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">APIPractice</string>
+    <string name="toast_msg_internet">Please check your internet connection</string>
+    <string name="radio_button_movies">Movies</string>
+    <string name="radio_button_famous">Famous</string>
+    <string name="button_get_quote">GET QUOTE</string>
+</resources>
